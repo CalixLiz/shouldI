@@ -57,7 +57,7 @@ body {
 .top-left {
 	grid-area: topleft;
 	min-height: 400px;
-	background: white url(pics/pic/img_7473.jpg);
+	background: white url(pics/pic/IMG_7473.jpg);
 	padding: 50px;
 	display: flex;
 	flex-direction: row-reverse;
@@ -86,7 +86,7 @@ body {
 
 .top-rigth1 {
 	grid-area: toprigth1;
-	background: white url(pics/pic/img_7472.jpg) center no-repeat;
+	background: white url(pics/pic/IMG_7472.jpg) center no-repeat;
 	background-size: cover;
 
 }
@@ -94,7 +94,7 @@ body {
 
 .top-rigth2 {
 	grid-area: toprigth2;
-	background: white url(pics/pic/img_7474.jpg) center no-repeat;
+	background: white url(pics/pic/IMG_7474.jpg) center no-repeat;
 	background-size: cover;
 }
 
